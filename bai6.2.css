@@ -1,0 +1,72 @@
+body
+{
+    width:auto;
+    margin:auto;
+    font-family:arial;
+    background-color:black;
+
+}
+.backgroundblack
+{
+    background-color:black;
+}
+.backgroundgray
+{
+    background-color:gray;
+}
+#resume
+{
+    width:29%;
+    padding: 50px 0 10px 20px;
+    font-size:150%;
+    color: white;
+}
+h1 {
+    font-size: 40px;
+    letter-spacing: 10px;
+}
+#name
+{
+    font-size:300%;
+    letter-spacing:5px;
+}
+#job
+{
+    font-style:italic;
+    margin-top:-40px;
+}
+.center
+{
+    text-align:center;
+}
+.white
+{
+    color:white;
+}
+.gray
+{
+    color:#9da3a7;
+}
+.white p
+{
+    line-height:150%;
+}
+.left
+{
+    float: left;
+    height: 20px;
+    
+    
+}
+.left_bottom {
+    float: right;
+    word-wrap: break-word;
+}
+.right
+{
+    float:right;
+}
+.clear
+{
+    clear:both;
+}

@@ -1,0 +1,42 @@
+body
+{
+    width:auto;
+    margin:auto;
+    font-family:arial;
+    background-color:black;
+    font-family: 'Times New Roman';
+}
+.backgroundblack
+{
+    background-color:black;
+}
+.backgroundgray
+{
+    background-color:gray;
+}
+.left
+{
+    float: left;
+    height: 20px;
+}
+.background {
+    padding-right: 5px;
+}
+.header {
+    display: flex;
+    height: 100px;
+    
+    
+}
+.content {
+    width: 69%;
+}
+.img {
+    padding: 15px 10px;
+    border: 1px solid red;
+    width: auto;
+    margin-right: 70%;
+}
+.right {
+    line-height: 20px;
+}
